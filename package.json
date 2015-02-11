@@ -1,0 +1,27 @@
+{
+  "name": "highcharts-release",
+  "version": "0.0.8-dev",
+  "description": "highcharts-release",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/highslide-software/highcharts-release",
+  "author": {
+    "name": "highcharts",
+    "email": "",
+    "url": "https://github.com/highslide-software/highcharts-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highslide-software/highcharts-release.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
